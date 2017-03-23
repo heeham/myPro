@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Baloo Bhaina';
+  font-size: 50px;
+  color: green;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+li {
+    font-size: 25px
+}
+
+div {
+    background-color: #ebebeb;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    padding: 50px 60px;
+    box-sizing: border-box;
+    overflow: hidden
+
+
+}
+
+div p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Lato;
+    color: #111;
+}
